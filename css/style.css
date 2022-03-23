@@ -1,0 +1,38 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(78, 6, 45);
+}
+nav{
+    background-color: rgb(255, 6, 139);
+}
+nav ul label{
+    margin-right: 55%;
+    font-size: 20px;
+    color: rgb(217, 187, 245);
+}
+
+/* The Image Slider part  */
+.welcomeSlider div img{
+    width: 100%;
+    height: 570px;
+}
+/* Contact US part */
+.ourContact,#aboutUs{
+    color: whitesmoke;
+    height: 500px;
+    text-transform: capitalize;
+}
+
+/* Gallery Section of the  */
+
+.gallerySec div img{
+    width: 200px;
+    height: 195px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
