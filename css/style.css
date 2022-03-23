@@ -25,4 +25,12 @@ nav ul label{
     height: 500px;
 }
 
-
+/* Gallery Section of the  */
+.gallerySec div{
+    display: inline-flex;
+    height: 300px;
+    margin-left: 10%;
+}
+.gallerySec div img{
+    width: 45%;
+}
